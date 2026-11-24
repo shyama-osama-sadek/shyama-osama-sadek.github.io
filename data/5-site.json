@@ -1,0 +1,339 @@
+{
+ "name": "Shyama Osama Sadek",
+ "email": "Shymaaosama07@gmail.com",
+ "ui": {
+  "title": {
+   "en": "Shyama Osama Sadek | Instructional Designer and E-Learning Developer",
+   "ar": "Shyama Osama Sadek | مصممة تعليمية ومطوّرة محتوى إلكتروني"
+  },
+  "switch": {
+   "en": "العربية",
+   "ar": "English"
+  },
+  "nav": {
+   "about": {
+    "en": "About",
+    "ar": "عني"
+   },
+   "services": {
+    "en": "What I do",
+    "ar": "خدماتي"
+   },
+   "experience": {
+    "en": "Experience",
+    "ar": "الخبرات"
+   },
+   "ai": {
+    "en": "AI in learning",
+    "ar": "الذكاء الاصطناعي"
+   },
+   "projects": {
+    "en": "Projects",
+    "ar": "المشاريع"
+   },
+   "contact": {
+    "en": "Contact",
+    "ar": "تواصل"
+   }
+  },
+  "role": {
+   "en": "Instructional Designer and E-Learning Developer",
+   "ar": "مصممة تعليمية ومطوّرة محتوى إلكتروني"
+  },
+  "tagline": {
+   "en": "Interactive, SCORM-ready courses in Articulate Storyline 360, with AI-enhanced visuals and video.",
+   "ar": "دورات تفاعلية متوافقة مع SCORM باستخدام Articulate Storyline 360، مع صور وفيديوهات معززة بالذكاء الاصطناعي."
+  },
+  "cta1": {
+   "en": "View projects",
+   "ar": "شاهد المشاريع"
+  },
+  "cta2": {
+   "en": "Contact me",
+   "ar": "تواصل معي"
+  },
+  "aboutH": {
+   "en": "About me",
+   "ar": "عني"
+  },
+  "about": {
+   "en": "Instructional Designer and E-Learning Specialist who builds interactive digital content and AI-enhanced visual and video materials. I combine technology, AI and pedagogy to create engaging learning experiences that support learners and educational goals.",
+   "ar": "مصممة تعليمية وأخصائية تعلّم إلكتروني، أصنع محتوى رقميًا تفاعليًا ومواد بصرية وفيديو معززة بالذكاء الاصطناعي. أجمع بين التكنولوجيا والذكاء الاصطناعي والتربية لأقدّم تجارب تعلّم جذابة تدعم المتعلمين والأهداف التعليمية."
+  },
+  "facts": [
+   {
+    "k": {
+     "en": "Education",
+     "ar": "التعليم"
+    },
+    "v": {
+     "en": "Education Technology, Faculty of Specific Education, Ain Shams University, 2018 - 2021 (Very Good)",
+     "ar": "تكنولوجيا التعليم، كلية التربية النوعية، جامعة عين شمس، 2018 - 2021 (جيد جدًا)"
+    }
+   },
+   {
+    "k": {
+     "en": "Languages",
+     "ar": "اللغات"
+    },
+    "v": {
+     "en": "Arabic (mother tongue), English (very good), German (good), Sign language (good)",
+     "ar": "العربية (لغة أم)، الإنجليزية (جيد جدًا)، الألمانية (جيد)، لغة الإشارة (جيد)"
+    }
+   },
+   {
+    "k": {
+     "en": "Based in",
+     "ar": "المكان"
+    },
+    "v": {
+     "en": "Cairo, Egypt",
+     "ar": "القاهرة، مصر"
+    }
+   }
+  ],
+  "servicesH": {
+   "en": "What I do",
+   "ar": "ما أقدّمه"
+  },
+  "services": [
+   {
+    "h": {
+     "en": "Design",
+     "ar": "التصميم"
+    },
+    "items": [
+     {
+      "en": "Instructional design with ADDIE",
+      "ar": "تصميم تعليمي وفق نموذج ADDIE"
+     },
+     {
+      "en": "Clear, measurable learning objectives",
+      "ar": "أهداف تعلّم واضحة وقابلة للقياس"
+     },
+     {
+      "en": "Content analysis aligned with learner needs",
+      "ar": "تحليل المحتوى بما يناسب احتياجات المتعلمين"
+     },
+     {
+      "en": "Storyboards",
+      "ar": "السيناريو (Storyboard)"
+     }
+    ]
+   },
+   {
+    "h": {
+     "en": "Develop",
+     "ar": "التطوير"
+    },
+    "items": [
+     {
+      "en": "Courses in Articulate Storyline 360 and Adobe Captivate",
+      "ar": "دورات بـ Articulate Storyline 360 وAdobe Captivate"
+     },
+     {
+      "en": "Triggers, variables, layers, states, slide master",
+      "ar": "المحفزات والمتغيرات والطبقات والحالات وSlide Master"
+     },
+     {
+      "en": "Drag-and-drop, dial interactions, timelines, quizzes",
+      "ar": "سحب وإفلات، Dial، خطوط زمنية، اختبارات"
+     },
+     {
+      "en": "Custom features with HTML, CSS and JavaScript",
+      "ar": "وظائف مخصصة بـ HTML وCSS وJavaScript"
+     },
+     {
+      "en": "SCORM publishing for LMS",
+      "ar": "النشر بصيغة SCORM لأنظمة LMS"
+     }
+    ]
+   },
+   {
+    "h": {
+     "en": "Produce and test",
+     "ar": "الإنتاج والاختبار"
+    },
+    "items": [
+     {
+      "en": "Graphics in Illustrator and Photoshop",
+      "ar": "تصميم الجرافيك بـ Illustrator وPhotoshop"
+     },
+     {
+      "en": "Video in Premiere Pro, whiteboard animation in VideoScribe",
+      "ar": "الفيديو بـ Premiere Pro وفيديو Whiteboard بـ VideoScribe"
+     },
+     {
+      "en": "QA of navigation, quizzes, interactions and media",
+      "ar": "اختبار جودة التنقل والاختبارات والتفاعلات والوسائط"
+     }
+    ]
+   }
+  ],
+  "experienceH": {
+   "en": "Experience",
+   "ar": "الخبرات"
+  },
+  "jobs": [
+   {
+    "date": {
+     "en": "November 2025 - Present",
+     "ar": "نوفمبر 2025 - الآن"
+    },
+    "title": {
+     "en": "E-Learning Developer",
+     "ar": "مطوّرة محتوى إلكتروني"
+    },
+    "org": "Dolph Company",
+    "points": [
+     {
+      "en": "Developed interactive courses in Articulate Storyline 360 using triggers, variables, layers, states and slide master",
+      "ar": "طورت دورات تفاعلية بـ Storyline 360 باستخدام المحفزات والمتغيرات والطبقات والحالات وSlide Master"
+     },
+     {
+      "en": "Built gamified activities: drag-and-drop, dial interactions, timelines and interactive quizzes",
+      "ar": "بنيت أنشطة تحفيزية: سحب وإفلات، Dial، خطوط زمنية واختبارات تفاعلية"
+     },
+     {
+      "en": "Integrated HTML, CSS and JavaScript into Storyline for custom functionality",
+      "ar": "دمجت HTML وCSS وJavaScript في Storyline لوظائف مخصصة"
+     },
+     {
+      "en": "Published SCORM-compliant courses for LMS; designed graphics (Illustrator, Photoshop) and edited videos (Premiere Pro)",
+      "ar": "نشرت دورات متوافقة مع SCORM لأنظمة LMS، وصممت الجرافيك (Illustrator وPhotoshop) وعدّلت الفيديو (Premiere Pro)"
+     },
+     {
+      "en": "Worked with instructional designers, graphic designers and project teams",
+      "ar": "تعاونت مع مصممين تعليميين ومصممي جرافيك وفرق المشاريع"
+     }
+    ]
+   },
+   {
+    "date": {
+     "en": "November 2024 - October 2025",
+     "ar": "نوفمبر 2024 - أكتوبر 2025"
+    },
+    "title": {
+     "en": "E-Learning Specialist and QA",
+     "ar": "أخصائية تعلّم إلكتروني ومراقبة جودة (QA)"
+    },
+    "org": "Maharat Company",
+    "points": [
+     {
+      "en": "Developed and published SCORM-compliant courses in Storyline 360",
+      "ar": "طورت ونشرت دورات متوافقة مع SCORM بـ Storyline 360"
+     },
+     {
+      "en": "Produced whiteboard animation videos with VideoScribe",
+      "ar": "أنتجت فيديوهات Whiteboard بـ VideoScribe"
+     },
+     {
+      "en": "Created AI-generated images and videos and wrote prompts for educational content and multimedia",
+      "ar": "أنشأت صورًا وفيديوهات بالذكاء الاصطناعي وكتبت Prompts للمحتوى التعليمي والوسائط"
+     },
+     {
+      "en": "Tested navigation, quizzes, interactions, triggers, variables and multimedia; documented and verified bugs before release",
+      "ar": "اختبرت التنقل والاختبارات والتفاعلات والمحفزات والمتغيرات والوسائط، ووثّقت الأخطاء وتحققت منها قبل الإصدار"
+     }
+    ]
+   }
+  ],
+  "aiH": {
+   "en": "AI in learning",
+   "ar": "الذكاء الاصطناعي في التعلّم"
+  },
+  "aiIntro": {
+   "en": "I use generative AI to support learning content, and check results against the learning goal.",
+   "ar": "أستخدم الذكاء الاصطناعي التوليدي لدعم المحتوى التعليمي، وأراجع النتائج مقابل هدف التعلّم."
+  },
+  "ai": [
+   {
+    "h": {
+     "en": "Training",
+     "ar": "التدريب"
+    },
+    "t": {
+     "en": "Digital Teacher Preparation Using Generative AI, Jusoor Platform and ZAKIRLY Academy, April - May 2026. 50 training hours on AI tools for content creation, lesson design and teaching.",
+     "ar": "إعداد المعلم الرقمي باستخدام الذكاء الاصطناعي التوليدي، منصة جسور وأكاديمية ZAKIRLY، أبريل - مايو 2026. 50 ساعة تدريبية على أدوات الذكاء الاصطناعي لإنشاء المحتوى وتصميم الدروس والتدريس."
+    }
+   },
+   {
+    "h": {
+     "en": "In practice",
+     "ar": "في العمل"
+    },
+    "t": {
+     "en": "At Maharat: AI-generated images and videos and prompt writing for learning content, using Freepik AI, Microsoft Copilot, ChatGPT and Google Gemini.",
+     "ar": "في Maharat: صور وفيديوهات بالذكاء الاصطناعي وكتابة Prompts لمحتوى التعلّم، باستخدام Freepik AI وMicrosoft Copilot وChatGPT وGoogle Gemini."
+    }
+   }
+  ],
+  "toolsH": {
+   "en": "Tools",
+   "ar": "الأدوات"
+  },
+  "tools": [
+   "Articulate Storyline 360",
+   "Adobe Captivate",
+   "Illustrator",
+   "Photoshop",
+   "Premiere Pro",
+   "After Effects",
+   "Canva",
+   "CapCut",
+   "VideoScribe",
+   "Ani Maker",
+   "Freepik AI",
+   "Copilot",
+   "ChatGPT",
+   "Gemini",
+   "Microsoft Office",
+   "Google Forms",
+   "Blogger",
+   "Wix",
+   "CoSpaces",
+   "Wordwall",
+   "E-book",
+   "PDF",
+   "Visual Basic"
+  ],
+  "projectsH": {
+   "en": "Projects",
+   "ar": "المشاريع"
+  },
+  "projectsIntro": {
+   "en": "Selected work. More projects are added here over time.",
+   "ar": "أعمال مختارة. تُضاف مشاريع أخرى هنا مع الوقت."
+  },
+  "labels": {
+   "role": {
+    "en": "Role",
+    "ar": "الدور"
+   },
+   "tools": {
+    "en": "Tools",
+    "ar": "الأدوات"
+   },
+   "result": {
+    "en": "Result",
+    "ar": "النتيجة"
+   },
+   "link": {
+    "en": "View project",
+    "ar": "شاهد المشروع"
+   }
+  },
+  "contactH": {
+   "en": "Let's work together",
+   "ar": "لنعمل معًا"
+  },
+  "contact": {
+   "en": "Open to e-learning developer and instructional design roles.",
+   "ar": "متاحة لوظائف مطوّر محتوى إلكتروني والتصميم التعليمي."
+  },
+  "emailLabel": {
+   "en": "Email me",
+   "ar": "راسلني"
+  }
+ }
+}
