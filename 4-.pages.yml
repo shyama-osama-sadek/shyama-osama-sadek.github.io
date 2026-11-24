@@ -1,0 +1,25 @@
+media: media
+content:
+  - name: projects
+    label: Projects
+    type: file
+    path: data/projects.json
+    format: json
+    fields:
+      - name: projects
+        label: Projects
+        type: object
+        list: true
+        fields:
+          - { name: title_en, label: "Title (English)", type: string }
+          - { name: title_ar, label: "العنوان (عربي)", type: string }
+          - { name: summary_en, label: "One-line summary (English)", type: text }
+          - { name: summary_ar, label: "ملخص (عربي)", type: text }
+          - { name: role_en, label: "My role (English)", type: string }
+          - { name: role_ar, label: "دوري (عربي)", type: string }
+          - { name: tools_en, label: "Tools (English)", type: string }
+          - { name: tools_ar, label: "الأدوات (عربي)", type: string }
+          - { name: result_en, label: "Result you can confirm (English)", type: string }
+          - { name: result_ar, label: "النتيجة (عربي)", type: string }
+          - { name: image, label: "Screenshot", type: image }
+          - { name: link, label: "Link to project (https://...)", type: string }
